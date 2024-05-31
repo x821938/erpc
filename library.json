@@ -1,7 +1,7 @@
 {
     "name": "ERPC",
-    "version": "1.0.0",
-    "description": "ERPC is a RPC library for embedded systems. It provides a simple and easy to use API for creating client/server applications. It is designed to work over Serial to transport the data",
+    "version": "1.0.1",
+    "description": "ERPC is a RPC library for the ESP32. It provides a simple and easy to use API for creating client/server applications. It is designed to work over Serial to transport the data",
     "keywords": "RPC, embedded, serial, data, communication, transfer, ESP32, ESP",
     "repository": {
         "type": "git",
