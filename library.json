@@ -1,0 +1,24 @@
+{
+    "name": "ERPC",
+    "version": "1.0.0",
+    "description": "ERPC is a RPC library for embedded systems. It provides a simple and easy to use API for creating client/server applications. It is designed to work over Serial to transport the data",
+    "keywords": "RPC, embedded, serial, data, communication, transfer, ESP32, ESP",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/x821938/erpc"
+    },
+    "authors": [
+        {
+            "name": "Alex Skov Jensen",
+            "email": "ard-contact@offline.dk",
+            "url": "https://github.com/x821938/erpc"
+        }
+    ],
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/x821938/erpc",
+    "frameworks": "arduino",
+    "platforms": "espressif32",
+    "dependencies": {
+        "robtillaart/CRC": "^1.0.3"
+    }
+}
